@@ -11,4 +11,4 @@ plugins {
 }
 
 rootProject.name = "kotlin-backend"
-include("app", "list", "utilities")
+include("app", "helloworld")
